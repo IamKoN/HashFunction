@@ -1,0 +1,2340 @@
+Question A:
+Hash: YOURS
+Probe: LINEAR
+Location: main memory
+ 0 is NULL
+ 1 is NULL
+ 2 is NULL
+ 3 is NULL
+ 4 is NULL
+ 5 is NULL
+ 6 is NULL
+ 7 is NULL
+ 8 is NULL
+ 9 is NULL
+ 10 is NULL
+ 11 is NULL
+ 12 is NULL
+ 13 is NULL
+ 14 is NULL
+ 15 is NULL
+ 16 is NULL
+ 17 is NULL
+ 18 is NULL
+ 19 is NULL
+ 20 is NULL
+ 21 is NULL
+ 22 is NULL
+ 23 is NULL
+ 24 is NULL
+ 25 is NULL
+ 26 is NULL
+ 27 is NULL
+ 28 is NULL
+ 29 is NULL
+ 30 is NULL
+ 31 is NULL
+ 32 is Aguirrie        Original location: 32     Probes: 1
+ 33 is Alcantara       Original location: 32     Probes: 2
+ 34 is Bhandari        Original location: 32     Probes: 3
+ 35 is Carmona         Original location: 32     Probes: 4
+ 36 is Casper          Original location: 32     Probes: 5
+ 37 is Cook            Original location: 32     Probes: 6
+ 38 is Daniels         Original location: 32     Probes: 7
+ 39 is Nienberg        Original location: 32     Probes: 8
+ 40 is Paschal         Original location: 32     Probes: 9
+ 41 is Red             Original location: 32     Probes: 10
+ 42 is Salkowski       Original location: 32     Probes: 11
+ 43 is Zulfiqar        Original location: 32     Probes: 12
+ 44 is Qamruddin       Original location: 32     Probes: 13
+ 45 is Acevedo         Original location: 32     Probes: 14
+ 46 is Ajose           Original location: 32     Probes: 15
+ 47 is Arauza          Original location: 32     Probes: 16
+ 48 is Buck            Original location: 32     Probes: 17
+ 49 is Clark           Original location: 32     Probes: 18
+ 50 is Crouch          Original location: 32     Probes: 19
+ 51 is Davies          Original location: 32     Probes: 20
+ 52 is Dugger          Original location: 32     Probes: 21
+ 53 is Egbe            Original location: 32     Probes: 22
+ 54 is Ellington       Original location: 32     Probes: 23
+ 55 is Farral          Original location: 32     Probes: 24
+ 56 is Garza           Original location: 32     Probes: 25
+ 57 is Gurung          Original location: 32     Probes: 26
+ 58 is Joseph          Original location: 32     Probes: 27
+ 59 is Kelly           Original location: 32     Probes: 28
+ 60 is Corey           Original location: 32     Probes: 29
+ 61 is Adam            Original location: 32     Probes: 30
+ 62 is Clayton         Original location: 32     Probes: 31
+ 63 is Dustin          Original location: 32     Probes: 32
+ 64 is Robert          Original location: 32     Probes: 33
+ 65 is Kyle            Original location: 32     Probes: 34
+ 66 is Scott           Original location: 32     Probes: 35
+ 67 is Octavio         Original location: 32     Probes: 36
+ 68 is Judy            Original location: 32     Probes: 37
+ 69 is Derek           Original location: 32     Probes: 38
+ 70 is Jeffrey         Original location: 32     Probes: 39
+ 71 is Jordon          Original location: 32     Probes: 40
+ 72 is Vinnela         Original location: 32     Probes: 41
+ 73 is Lisa            Original location: 32     Probes: 42
+ 74 is Todd            Original location: 32     Probes: 43
+ 75 is Veronica        Original location: 32     Probes: 44
+ 76 is Matthew         Original location: 32     Probes: 45
+ 77 is Michael         Original location: 32     Probes: 46
+ 78 is Akhila          Original location: 32     Probes: 47
+ 79 is John            Original location: 32     Probes: 48
+ 80 is Charles         Original location: 32     Probes: 49
+ 81 is James           Original location: 32     Probes: 50
+ 82 is Chris           Original location: 32     Probes: 51
+ 83 is NULL
+ 84 is NULL
+ 85 is NULL
+ 86 is NULL
+ 87 is NULL
+ 88 is NULL
+ 89 is NULL
+ 90 is NULL
+ 91 is NULL
+ 92 is NULL
+ 93 is NULL
+ 94 is NULL
+ 95 is NULL
+ 96 is NULL
+ 97 is NULL
+ 98 is NULL
+ 99 is NULL
+ 100 is NULL
+ 101 is NULL
+ 102 is NULL
+ 103 is NULL
+ 104 is NULL
+ 105 is NULL
+ 106 is NULL
+ 107 is NULL
+ 108 is NULL
+ 109 is NULL
+ 110 is NULL
+ 111 is NULL
+ 112 is NULL
+ 113 is NULL
+ 114 is NULL
+ 115 is NULL
+ 116 is NULL
+ 117 is NULL
+ 118 is NULL
+ 119 is NULL
+ 120 is NULL
+ 121 is NULL
+ 122 is NULL
+ 123 is NULL
+ 124 is NULL
+ 125 is NULL
+ 126 is NULL
+ 127 is NULL
+----------------
+Stats for 2 to 31
+Min: 1
+Max: 30
+Avg: 15.50
+----------------
+Stats for 22 to 51
+Min: 21
+Max: 50
+Avg: 35.50
+----------------
+Keys: 51
+Load level: 39.84%
+Expected average probes: 1.33
+
+Hash: YOURS
+Probe: LINEAR
+Location: QA
+ 1 is NULL
+ 2 is NULL
+ 3 is NULL
+ 4 is NULL
+ 5 is NULL
+ 6 is NULL
+ 7 is NULL
+ 8 is NULL
+ 9 is NULL
+ 10 is NULL
+ 11 is NULL
+ 12 is NULL
+ 13 is NULL
+ 14 is NULL
+ 15 is NULL
+ 16 is NULL
+ 17 is NULL
+ 18 is NULL
+ 19 is NULL
+ 20 is NULL
+ 21 is NULL
+ 22 is NULL
+ 23 is NULL
+ 24 is NULL
+ 25 is NULL
+ 26 is NULL
+ 27 is NULL
+ 28 is NULL
+ 29 is NULL
+ 30 is NULL
+ 31 is NULL
+ 32 is Aguirrie        Original location: 32     Probes: 1
+ 33 is Alcantara       Original location: 32     Probes: 2
+ 34 is Bhandari        Original location: 32     Probes: 3
+ 35 is Carmona         Original location: 32     Probes: 4
+ 36 is Casper          Original location: 32     Probes: 5
+ 37 is Cook            Original location: 32     Probes: 6
+ 38 is Daniels         Original location: 32     Probes: 7
+ 39 is Nienberg        Original location: 32     Probes: 8
+ 40 is Paschal         Original location: 32     Probes: 9
+ 41 is Red             Original location: 32     Probes: 10
+ 42 is Salkowski       Original location: 32     Probes: 11
+ 43 is Zulfiqar        Original location: 32     Probes: 12
+ 44 is Qamruddin       Original location: 32     Probes: 13
+ 45 is Acevedo         Original location: 32     Probes: 14
+ 46 is Ajose           Original location: 32     Probes: 15
+ 47 is Arauza          Original location: 32     Probes: 16
+ 48 is Buck            Original location: 32     Probes: 17
+ 49 is Clark           Original location: 32     Probes: 18
+ 50 is Crouch          Original location: 32     Probes: 19
+ 51 is Davies          Original location: 32     Probes: 20
+ 52 is Dugger          Original location: 32     Probes: 21
+ 53 is Egbe            Original location: 32     Probes: 22
+ 54 is Ellington       Original location: 32     Probes: 23
+ 55 is Farral          Original location: 32     Probes: 24
+ 56 is Garza           Original location: 32     Probes: 25
+ 57 is Gurung          Original location: 32     Probes: 26
+ 58 is Joseph          Original location: 32     Probes: 27
+ 59 is Kelly           Original location: 32     Probes: 28
+ 60 is Corey           Original location: 32     Probes: 29
+ 61 is Adam            Original location: 32     Probes: 30
+ 62 is Clayton         Original location: 32     Probes: 31
+ 63 is Dustin          Original location: 32     Probes: 32
+ 64 is Robert          Original location: 32     Probes: 33
+ 65 is Kyle            Original location: 32     Probes: 34
+ 66 is Scott           Original location: 32     Probes: 35
+ 67 is Octavio         Original location: 32     Probes: 36
+ 68 is Judy            Original location: 32     Probes: 37
+ 69 is Derek           Original location: 32     Probes: 38
+ 70 is Jeffrey         Original location: 32     Probes: 39
+ 71 is Jordon          Original location: 32     Probes: 40
+ 72 is Vinnela         Original location: 32     Probes: 41
+ 73 is Lisa            Original location: 32     Probes: 42
+ 74 is Todd            Original location: 32     Probes: 43
+ 75 is Veronica        Original location: 32     Probes: 44
+ 76 is Matthew         Original location: 32     Probes: 45
+ 77 is Michael         Original location: 32     Probes: 46
+ 78 is Akhila          Original location: 32     Probes: 47
+ 79 is John            Original location: 32     Probes: 48
+ 80 is Charles         Original location: 32     Probes: 49
+ 81 is James           Original location: 32     Probes: 50
+ 82 is Chris           Original location: 32     Probes: 51
+ 83 is NULL
+ 84 is NULL
+ 85 is NULL
+ 86 is NULL
+ 87 is NULL
+ 88 is NULL
+ 89 is NULL
+ 90 is NULL
+ 91 is NULL
+ 92 is NULL
+ 93 is NULL
+ 94 is NULL
+ 95 is NULL
+ 96 is NULL
+ 97 is NULL
+ 98 is NULL
+ 99 is NULL
+ 100 is NULL
+ 101 is NULL
+ 102 is NULL
+ 103 is NULL
+ 104 is NULL
+ 105 is NULL
+ 106 is NULL
+ 107 is NULL
+ 108 is NULL
+ 109 is NULL
+ 110 is NULL
+ 111 is NULL
+ 112 is NULL
+ 113 is NULL
+ 114 is NULL
+ 115 is NULL
+ 116 is NULL
+ 117 is NULL
+ 118 is NULL
+ 119 is NULL
+ 120 is NULL
+ 121 is NULL
+ 122 is NULL
+ 123 is NULL
+ 124 is NULL
+ 125 is NULL
+ 126 is NULL
+ 127 is NULL
+ 128 is NULL
+----------------
+Stats for 2 to 31
+Min: 1
+Max: 30
+Avg: 15.50
+----------------
+Stats for 22 to 51
+Min: 21
+Max: 50
+Avg: 35.50
+----------------
+Keys: 51
+Load level: 39.84%
+Expected average probes: 1.33
+
+Question B:
+Hash: YOURS
+Probe: LINEAR
+Location: main memory
+ 0 is toluene         Original location: 32     Probes: 97
+ 1 is wet             Original location: 32     Probes: 98
+ 2 is sparse          Original location: 32     Probes: 99
+ 3 is quandary        Original location: 32     Probes: 100
+ 4 is dactyl          Original location: 32     Probes: 101
+ 5 is nosegay         Original location: 32     Probes: 102
+ 6 is option          Original location: 32     Probes: 103
+ 7 is forgetful       Original location: 32     Probes: 104
+ 8 is privilege       Original location: 32     Probes: 105
+ 9 is sponsor         Original location: 32     Probes: 106
+ 10 is exhilarate      Original location: 32     Probes: 107
+ 11 is guard           Original location: 32     Probes: 108
+ 12 is noggin          Original location: 32     Probes: 109
+ 13 is prologue        Original location: 32     Probes: 110
+ 14 is seal            Original location: 32     Probes: 111
+ 15 is NULL
+ 16 is NULL
+ 17 is NULL
+ 18 is NULL
+ 19 is NULL
+ 20 is NULL
+ 21 is NULL
+ 22 is NULL
+ 23 is NULL
+ 24 is NULL
+ 25 is NULL
+ 26 is NULL
+ 27 is NULL
+ 28 is NULL
+ 29 is NULL
+ 30 is NULL
+ 31 is NULL
+ 32 is Aguirrie        Original location: 32     Probes: 1
+ 33 is Alcantara       Original location: 32     Probes: 2
+ 34 is Bhandari        Original location: 32     Probes: 3
+ 35 is Carmona         Original location: 32     Probes: 4
+ 36 is Casper          Original location: 32     Probes: 5
+ 37 is Cook            Original location: 32     Probes: 6
+ 38 is Daniels         Original location: 32     Probes: 7
+ 39 is Nienberg        Original location: 32     Probes: 8
+ 40 is Paschal         Original location: 32     Probes: 9
+ 41 is Red             Original location: 32     Probes: 10
+ 42 is Salkowski       Original location: 32     Probes: 11
+ 43 is Zulfiqar        Original location: 32     Probes: 12
+ 44 is Qamruddin       Original location: 32     Probes: 13
+ 45 is Acevedo         Original location: 32     Probes: 14
+ 46 is Ajose           Original location: 32     Probes: 15
+ 47 is Arauza          Original location: 32     Probes: 16
+ 48 is Buck            Original location: 32     Probes: 17
+ 49 is Clark           Original location: 32     Probes: 18
+ 50 is Crouch          Original location: 32     Probes: 19
+ 51 is Davies          Original location: 32     Probes: 20
+ 52 is Dugger          Original location: 32     Probes: 21
+ 53 is Egbe            Original location: 32     Probes: 22
+ 54 is Ellington       Original location: 32     Probes: 23
+ 55 is Farral          Original location: 32     Probes: 24
+ 56 is Garza           Original location: 32     Probes: 25
+ 57 is Gurung          Original location: 32     Probes: 26
+ 58 is Joseph          Original location: 32     Probes: 27
+ 59 is Kelly           Original location: 32     Probes: 28
+ 60 is Corey           Original location: 32     Probes: 29
+ 61 is Adam            Original location: 32     Probes: 30
+ 62 is Clayton         Original location: 32     Probes: 31
+ 63 is Dustin          Original location: 32     Probes: 32
+ 64 is Robert          Original location: 32     Probes: 33
+ 65 is Kyle            Original location: 32     Probes: 34
+ 66 is Scott           Original location: 32     Probes: 35
+ 67 is Octavio         Original location: 32     Probes: 36
+ 68 is Judy            Original location: 32     Probes: 37
+ 69 is Derek           Original location: 32     Probes: 38
+ 70 is Jeffrey         Original location: 32     Probes: 39
+ 71 is Jordon          Original location: 32     Probes: 40
+ 72 is Vinnela         Original location: 32     Probes: 41
+ 73 is Lisa            Original location: 32     Probes: 42
+ 74 is Todd            Original location: 32     Probes: 43
+ 75 is Veronica        Original location: 32     Probes: 44
+ 76 is Matthew         Original location: 32     Probes: 45
+ 77 is Michael         Original location: 32     Probes: 46
+ 78 is Akhila          Original location: 32     Probes: 47
+ 79 is John            Original location: 32     Probes: 48
+ 80 is Charles         Original location: 32     Probes: 49
+ 81 is James           Original location: 32     Probes: 50
+ 82 is Chris           Original location: 32     Probes: 51
+ 83 is Wade            Original location: 32     Probes: 52
+ 84 is Christopher     Original location: 32     Probes: 53
+ 85 is Fernando        Original location: 32     Probes: 54
+ 86 is Batbold         Original location: 32     Probes: 55
+ 87 is Joel            Original location: 32     Probes: 56
+ 88 is Fabulous        Original location: 32     Probes: 57
+ 89 is Misogamist      Original location: 32     Probes: 58
+ 90 is Maiden          Original location: 32     Probes: 59
+ 91 is Eye             Original location: 32     Probes: 60
+ 92 is Constriction    Original location: 32     Probes: 61
+ 93 is Necromancer     Original location: 32     Probes: 62
+ 94 is Syncopate       Original location: 32     Probes: 63
+ 95 is Yolk            Original location: 32     Probes: 64
+ 96 is Afterwards      Original location: 32     Probes: 65
+ 97 is Person          Original location: 32     Probes: 66
+ 98 is Northwest       Original location: 32     Probes: 67
+ 99 is Irreversible    Original location: 32     Probes: 68
+ 100 is Fabricate       Original location: 32     Probes: 69
+ 101 is Honor           Original location: 32     Probes: 70
+ 102 is Staple          Original location: 32     Probes: 71
+ 103 is Under           Original location: 32     Probes: 72
+ 104 is Jutty           Original location: 32     Probes: 73
+ 105 is Finagle         Original location: 32     Probes: 74
+ 106 is Cook            Original location: 32     Probes: 75
+ 107 is Rush            Original location: 32     Probes: 76
+ 108 is Wine            Original location: 32     Probes: 77
+ 109 is Screen          Original location: 32     Probes: 78
+ 110 is Perfect         Original location: 32     Probes: 79
+ 111 is mole            Original location: 32     Probes: 80
+ 112 is poison          Original location: 32     Probes: 81
+ 113 is brutalize       Original location: 32     Probes: 82
+ 114 is cap             Original location: 32     Probes: 83
+ 115 is ratiocination   Original location: 110     Probes: 6
+ 116 is parasympathetic Original location: 116     Probes: 1
+ 117 is cauldron        Original location: 32     Probes: 86
+ 118 is prepossess      Original location: 32     Probes: 87
+ 119 is wince           Original location: 32     Probes: 88
+ 120 is orthodontist    Original location: 32     Probes: 89
+ 121 is live            Original location: 32     Probes: 90
+ 122 is magnetic        Original location: 32     Probes: 91
+ 123 is inlet           Original location: 32     Probes: 92
+ 124 is constrain       Original location: 32     Probes: 93
+ 125 is marsupial       Original location: 32     Probes: 94
+ 126 is rationalize     Original location: 32     Probes: 95
+ 127 is scat            Original location: 32     Probes: 96
+----------------
+Stats for 2 to 31
+Min: 1
+Max: 30
+Avg: 15.50
+----------------
+Stats for 82 to 111
+Min: 1
+Max: 110
+Avg: 90.10
+----------------
+Keys: 111
+Load level: 86.72%
+Expected average probes: 4.26
+
+Hash: YOURS
+Probe: LINEAR
+Location: QB
+ 1 is wet             Original location: 32     Probes: 98
+ 2 is sparse          Original location: 32     Probes: 99
+ 3 is quandary        Original location: 32     Probes: 100
+ 4 is dactyl          Original location: 32     Probes: 101
+ 5 is nosegay         Original location: 32     Probes: 102
+ 6 is option          Original location: 32     Probes: 103
+ 7 is forgetful       Original location: 32     Probes: 104
+ 8 is privilege       Original location: 32     Probes: 105
+ 9 is sponsor         Original location: 32     Probes: 106
+ 10 is exhilarate      Original location: 32     Probes: 107
+ 11 is guard           Original location: 32     Probes: 108
+ 12 is noggin          Original location: 32     Probes: 109
+ 13 is prologue        Original location: 32     Probes: 110
+ 14 is seal            Original location: 32     Probes: 111
+ 15 is NULL
+ 16 is NULL
+ 17 is NULL
+ 18 is NULL
+ 19 is NULL
+ 20 is NULL
+ 21 is NULL
+ 22 is NULL
+ 23 is NULL
+ 24 is NULL
+ 25 is NULL
+ 26 is NULL
+ 27 is NULL
+ 28 is NULL
+ 29 is NULL
+ 30 is NULL
+ 31 is NULL
+ 32 is Aguirrie        Original location: 32     Probes: 1
+ 33 is Alcantara       Original location: 32     Probes: 2
+ 34 is Bhandari        Original location: 32     Probes: 3
+ 35 is Carmona         Original location: 32     Probes: 4
+ 36 is Casper          Original location: 32     Probes: 5
+ 37 is Cook            Original location: 32     Probes: 6
+ 38 is Daniels         Original location: 32     Probes: 7
+ 39 is Nienberg        Original location: 32     Probes: 8
+ 40 is Paschal         Original location: 32     Probes: 9
+ 41 is Red             Original location: 32     Probes: 10
+ 42 is Salkowski       Original location: 32     Probes: 11
+ 43 is Zulfiqar        Original location: 32     Probes: 12
+ 44 is Qamruddin       Original location: 32     Probes: 13
+ 45 is Acevedo         Original location: 32     Probes: 14
+ 46 is Ajose           Original location: 32     Probes: 15
+ 47 is Arauza          Original location: 32     Probes: 16
+ 48 is Buck            Original location: 32     Probes: 17
+ 49 is Clark           Original location: 32     Probes: 18
+ 50 is Crouch          Original location: 32     Probes: 19
+ 51 is Davies          Original location: 32     Probes: 20
+ 52 is Dugger          Original location: 32     Probes: 21
+ 53 is Egbe            Original location: 32     Probes: 22
+ 54 is Ellington       Original location: 32     Probes: 23
+ 55 is Farral          Original location: 32     Probes: 24
+ 56 is Garza           Original location: 32     Probes: 25
+ 57 is Gurung          Original location: 32     Probes: 26
+ 58 is Joseph          Original location: 32     Probes: 27
+ 59 is Kelly           Original location: 32     Probes: 28
+ 60 is Corey           Original location: 32     Probes: 29
+ 61 is Adam            Original location: 32     Probes: 30
+ 62 is Clayton         Original location: 32     Probes: 31
+ 63 is Dustin          Original location: 32     Probes: 32
+ 64 is Robert          Original location: 32     Probes: 33
+ 65 is Kyle            Original location: 32     Probes: 34
+ 66 is Scott           Original location: 32     Probes: 35
+ 67 is Octavio         Original location: 32     Probes: 36
+ 68 is Judy            Original location: 32     Probes: 37
+ 69 is Derek           Original location: 32     Probes: 38
+ 70 is Jeffrey         Original location: 32     Probes: 39
+ 71 is Jordon          Original location: 32     Probes: 40
+ 72 is Vinnela         Original location: 32     Probes: 41
+ 73 is Lisa            Original location: 32     Probes: 42
+ 74 is Todd            Original location: 32     Probes: 43
+ 75 is Veronica        Original location: 32     Probes: 44
+ 76 is Matthew         Original location: 32     Probes: 45
+ 77 is Michael         Original location: 32     Probes: 46
+ 78 is Akhila          Original location: 32     Probes: 47
+ 79 is John            Original location: 32     Probes: 48
+ 80 is Charles         Original location: 32     Probes: 49
+ 81 is James           Original location: 32     Probes: 50
+ 82 is Chris           Original location: 32     Probes: 51
+ 83 is Wade            Original location: 32     Probes: 52
+ 84 is Christopher     Original location: 32     Probes: 53
+ 85 is Fernando        Original location: 32     Probes: 54
+ 86 is Batbold         Original location: 32     Probes: 55
+ 87 is Joel            Original location: 32     Probes: 56
+ 88 is Fabulous        Original location: 32     Probes: 57
+ 89 is Misogamist      Original location: 32     Probes: 58
+ 90 is Maiden          Original location: 32     Probes: 59
+ 91 is Eye             Original location: 32     Probes: 60
+ 92 is Constriction    Original location: 32     Probes: 61
+ 93 is Necromancer     Original location: 32     Probes: 62
+ 94 is Syncopate       Original location: 32     Probes: 63
+ 95 is Yolk            Original location: 32     Probes: 64
+ 96 is Afterwards      Original location: 32     Probes: 65
+ 97 is Person          Original location: 32     Probes: 66
+ 98 is Northwest       Original location: 32     Probes: 67
+ 99 is Irreversible    Original location: 32     Probes: 68
+ 100 is Fabricate       Original location: 32     Probes: 69
+ 101 is Honor           Original location: 32     Probes: 70
+ 102 is Staple          Original location: 32     Probes: 71
+ 103 is Under           Original location: 32     Probes: 72
+ 104 is Jutty           Original location: 32     Probes: 73
+ 105 is Finagle         Original location: 32     Probes: 74
+ 106 is Cook            Original location: 32     Probes: 75
+ 107 is Rush            Original location: 32     Probes: 76
+ 108 is Wine            Original location: 32     Probes: 77
+ 109 is Screen          Original location: 32     Probes: 78
+ 110 is Perfect         Original location: 32     Probes: 79
+ 111 is mole            Original location: 32     Probes: 80
+ 112 is poison          Original location: 32     Probes: 81
+ 113 is brutalize       Original location: 32     Probes: 82
+ 114 is cap             Original location: 32     Probes: 83
+ 115 is ratiocination   Original location: 110     Probes: 6
+ 116 is parasympathetic Original location: 116     Probes: 1
+ 117 is cauldron        Original location: 32     Probes: 86
+ 118 is prepossess      Original location: 32     Probes: 87
+ 119 is wince           Original location: 32     Probes: 88
+ 120 is orthodontist    Original location: 32     Probes: 89
+ 121 is live            Original location: 32     Probes: 90
+ 122 is magnetic        Original location: 32     Probes: 91
+ 123 is inlet           Original location: 32     Probes: 92
+ 124 is constrain       Original location: 32     Probes: 93
+ 125 is marsupial       Original location: 32     Probes: 94
+ 126 is rationalize     Original location: 32     Probes: 95
+ 127 is scat            Original location: 32     Probes: 96
+ 128 is toluene         Original location: 32     Probes: 97
+----------------
+Stats for 2 to 31
+Min: 1
+Max: 30
+Avg: 15.50
+----------------
+Stats for 82 to 111
+Min: 1
+Max: 110
+Avg: 90.10
+----------------
+Keys: 111
+Load level: 86.72%
+Expected average probes: 4.26
+
+Question C:
+Hash: YOURS
+Probe: RANDOM
+Location: main memory
+ 0 is Robert          Original location: 32     Probes: 33
+ 1 is Kyle            Original location: 32     Probes: 34
+ 2 is NULL
+ 3 is Arauza          Original location: 32     Probes: 16
+ 4 is NULL
+ 5 is Acevedo         Original location: 32     Probes: 14
+ 6 is Scott           Original location: 32     Probes: 35
+ 7 is Kelly           Original location: 32     Probes: 28
+ 8 is Garza           Original location: 32     Probes: 25
+ 9 is NULL
+ 10 is Clayton         Original location: 32     Probes: 31
+ 11 is NULL
+ 12 is NULL
+ 13 is Derek           Original location: 32     Probes: 38
+ 14 is NULL
+ 15 is NULL
+ 16 is Buck            Original location: 32     Probes: 17
+ 17 is NULL
+ 18 is NULL
+ 19 is NULL
+ 20 is Matthew         Original location: 32     Probes: 45
+ 21 is NULL
+ 22 is Crouch          Original location: 32     Probes: 19
+ 23 is NULL
+ 24 is Paschal         Original location: 32     Probes: 9
+ 25 is NULL
+ 26 is Ajose           Original location: 32     Probes: 15
+ 27 is Farral          Original location: 32     Probes: 24
+ 28 is Judy            Original location: 32     Probes: 37
+ 29 is NULL
+ 30 is NULL
+ 31 is Octavio         Original location: 32     Probes: 36
+ 32 is Aguirrie        Original location: 32     Probes: 1
+ 33 is Alcantara       Original location: 32     Probes: 2
+ 34 is NULL
+ 35 is NULL
+ 36 is Corey           Original location: 32     Probes: 29
+ 37 is NULL
+ 38 is Bhandari        Original location: 32     Probes: 3
+ 39 is NULL
+ 40 is NULL
+ 41 is Gurung          Original location: 32     Probes: 26
+ 42 is NULL
+ 43 is NULL
+ 44 is Dugger          Original location: 32     Probes: 21
+ 45 is Cook            Original location: 32     Probes: 6
+ 46 is NULL
+ 47 is NULL
+ 48 is NULL
+ 49 is James           Original location: 32     Probes: 50
+ 50 is NULL
+ 51 is Dustin          Original location: 32     Probes: 32
+ 52 is Qamruddin       Original location: 32     Probes: 13
+ 53 is Adam            Original location: 32     Probes: 30
+ 54 is NULL
+ 55 is Veronica        Original location: 32     Probes: 44
+ 56 is NULL
+ 57 is NULL
+ 58 is NULL
+ 59 is NULL
+ 60 is Casper          Original location: 32     Probes: 5
+ 61 is NULL
+ 62 is Todd            Original location: 32     Probes: 43
+ 63 is Carmona         Original location: 32     Probes: 4
+ 64 is NULL
+ 65 is NULL
+ 66 is Jeffrey         Original location: 32     Probes: 39
+ 67 is NULL
+ 68 is NULL
+ 69 is NULL
+ 70 is NULL
+ 71 is NULL
+ 72 is NULL
+ 73 is NULL
+ 74 is NULL
+ 75 is Jordon          Original location: 32     Probes: 40
+ 76 is NULL
+ 77 is NULL
+ 78 is Joseph          Original location: 32     Probes: 27
+ 79 is NULL
+ 80 is NULL
+ 81 is Clark           Original location: 32     Probes: 18
+ 82 is Ellington       Original location: 32     Probes: 23
+ 83 is NULL
+ 84 is NULL
+ 85 is NULL
+ 86 is NULL
+ 87 is Zulfiqar        Original location: 32     Probes: 12
+ 88 is NULL
+ 89 is Lisa            Original location: 32     Probes: 42
+ 90 is NULL
+ 91 is NULL
+ 92 is NULL
+ 93 is Egbe            Original location: 32     Probes: 22
+ 94 is Salkowski       Original location: 32     Probes: 11
+ 95 is NULL
+ 96 is NULL
+ 97 is NULL
+ 98 is Daniels         Original location: 32     Probes: 7
+ 99 is John            Original location: 32     Probes: 48
+ 100 is NULL
+ 101 is Michael         Original location: 32     Probes: 46
+ 102 is NULL
+ 103 is NULL
+ 104 is NULL
+ 105 is NULL
+ 106 is NULL
+ 107 is Nienberg        Original location: 32     Probes: 8
+ 108 is NULL
+ 109 is NULL
+ 110 is NULL
+ 111 is Davies          Original location: 32     Probes: 20
+ 112 is Charles         Original location: 32     Probes: 49
+ 113 is NULL
+ 114 is NULL
+ 115 is NULL
+ 116 is NULL
+ 117 is NULL
+ 118 is Chris           Original location: 32     Probes: 51
+ 119 is NULL
+ 120 is Vinnela         Original location: 32     Probes: 41
+ 121 is Red             Original location: 32     Probes: 10
+ 122 is Akhila          Original location: 32     Probes: 47
+ 123 is NULL
+ 124 is NULL
+ 125 is NULL
+ 126 is NULL
+ 127 is NULL
+----------------
+Stats for 2 to 31
+Min: 1
+Max: 30
+Avg: 15.50
+----------------
+Stats for 22 to 51
+Min: 21
+Max: 50
+Avg: 35.50
+----------------
+Keys: 51
+Load level: 39.84%
+Expected average probes: 1.28
+
+Hash: YOURS
+Probe: RANDOM
+Location: main memory
+ 0 is Robert          Original location: 32     Probes: 33
+ 1 is Kyle            Original location: 32     Probes: 34
+ 2 is forgetful       Original location: 32     Probes: 103
+ 3 is Arauza          Original location: 32     Probes: 16
+ 4 is Constriction    Original location: 32     Probes: 61
+ 5 is Acevedo         Original location: 32     Probes: 14
+ 6 is Scott           Original location: 32     Probes: 35
+ 7 is Kelly           Original location: 32     Probes: 28
+ 8 is Garza           Original location: 32     Probes: 25
+ 9 is Misogamist      Original location: 32     Probes: 58
+ 10 is Clayton         Original location: 32     Probes: 31
+ 11 is privilege       Original location: 32     Probes: 104
+ 12 is Christopher     Original location: 32     Probes: 53
+ 13 is Derek           Original location: 32     Probes: 38
+ 14 is constrain       Original location: 32     Probes: 91
+ 15 is NULL
+ 16 is Buck            Original location: 32     Probes: 17
+ 17 is brutalize       Original location: 32     Probes: 82
+ 18 is orthodontist    Original location: 32     Probes: 87
+ 19 is Yolk            Original location: 32     Probes: 64
+ 20 is Matthew         Original location: 32     Probes: 45
+ 21 is Necromancer     Original location: 32     Probes: 62
+ 22 is Crouch          Original location: 32     Probes: 19
+ 23 is Rush            Original location: 32     Probes: 76
+ 24 is Paschal         Original location: 32     Probes: 9
+ 25 is exhilarate      Original location: 32     Probes: 106
+ 26 is Ajose           Original location: 32     Probes: 15
+ 27 is Farral          Original location: 32     Probes: 24
+ 28 is Judy            Original location: 32     Probes: 37
+ 29 is wince           Original location: 32     Probes: 86
+ 30 is Cook            Original location: 32     Probes: 75
+ 31 is Octavio         Original location: 32     Probes: 36
+ 32 is Aguirrie        Original location: 32     Probes: 1
+ 33 is Alcantara       Original location: 32     Probes: 2
+ 34 is Staple          Original location: 32     Probes: 71
+ 35 is NULL
+ 36 is Corey           Original location: 32     Probes: 29
+ 37 is seal            Original location: 32     Probes: 110
+ 38 is Bhandari        Original location: 32     Probes: 3
+ 39 is NULL
+ 40 is NULL
+ 41 is Gurung          Original location: 32     Probes: 26
+ 42 is NULL
+ 43 is Under           Original location: 32     Probes: 72
+ 44 is Dugger          Original location: 32     Probes: 21
+ 45 is Cook            Original location: 32     Probes: 6
+ 46 is Maiden          Original location: 32     Probes: 59
+ 47 is cauldron        Original location: 32     Probes: 84
+ 48 is NULL
+ 49 is James           Original location: 32     Probes: 50
+ 50 is Batbold         Original location: 32     Probes: 55
+ 51 is Dustin          Original location: 32     Probes: 32
+ 52 is Qamruddin       Original location: 32     Probes: 13
+ 53 is Adam            Original location: 32     Probes: 30
+ 54 is NULL
+ 55 is Veronica        Original location: 32     Probes: 44
+ 56 is sponsor         Original location: 32     Probes: 105
+ 57 is Finagle         Original location: 32     Probes: 74
+ 58 is NULL
+ 59 is NULL
+ 60 is Casper          Original location: 32     Probes: 5
+ 61 is Fernando        Original location: 32     Probes: 54
+ 62 is Todd            Original location: 32     Probes: 43
+ 63 is Carmona         Original location: 32     Probes: 4
+ 64 is wet             Original location: 32     Probes: 97
+ 65 is sparse          Original location: 32     Probes: 98
+ 66 is Jeffrey         Original location: 32     Probes: 39
+ 67 is mole            Original location: 32     Probes: 80
+ 68 is NULL
+ 69 is Screen          Original location: 32     Probes: 78
+ 70 is quandary        Original location: 32     Probes: 99
+ 71 is marsupial       Original location: 32     Probes: 92
+ 72 is magnetic        Original location: 32     Probes: 89
+ 73 is NULL
+ 74 is scat            Original location: 32     Probes: 95
+ 75 is Jordon          Original location: 32     Probes: 40
+ 76 is NULL
+ 77 is option          Original location: 32     Probes: 102
+ 78 is Joseph          Original location: 32     Probes: 27
+ 79 is Wade            Original location: 32     Probes: 52
+ 80 is poison          Original location: 32     Probes: 81
+ 81 is Clark           Original location: 32     Probes: 18
+ 82 is Ellington       Original location: 32     Probes: 23
+ 83 is NULL
+ 84 is prologue        Original location: 32     Probes: 109
+ 85 is NULL
+ 86 is cap             Original location: 32     Probes: 83
+ 87 is Zulfiqar        Original location: 32     Probes: 12
+ 88 is Jutty           Original location: 32     Probes: 73
+ 89 is Lisa            Original location: 32     Probes: 42
+ 90 is Perfect         Original location: 32     Probes: 79
+ 91 is live            Original location: 32     Probes: 88
+ 92 is nosegay         Original location: 32     Probes: 101
+ 93 is Egbe            Original location: 32     Probes: 22
+ 94 is Salkowski       Original location: 32     Probes: 11
+ 95 is dactyl          Original location: 32     Probes: 100
+ 96 is Afterwards      Original location: 32     Probes: 65
+ 97 is Person          Original location: 32     Probes: 66
+ 98 is Daniels         Original location: 32     Probes: 7
+ 99 is John            Original location: 32     Probes: 48
+ 100 is rationalize     Original location: 32     Probes: 93
+ 101 is Michael         Original location: 32     Probes: 46
+ 102 is Northwest       Original location: 32     Probes: 67
+ 103 is Eye             Original location: 32     Probes: 60
+ 104 is Fabulous        Original location: 32     Probes: 57
+ 105 is inlet           Original location: 32     Probes: 90
+ 106 is Syncopate       Original location: 32     Probes: 63
+ 107 is Nienberg        Original location: 32     Probes: 8
+ 108 is prepossess      Original location: 32     Probes: 85
+ 109 is Honor           Original location: 32     Probes: 70
+ 110 is ratiocination   Original location: 110     Probes: 1
+ 111 is Davies          Original location: 32     Probes: 20
+ 112 is Charles         Original location: 32     Probes: 49
+ 113 is NULL
+ 114 is NULL
+ 115 is toluene         Original location: 32     Probes: 96
+ 116 is Wine            Original location: 32     Probes: 77
+ 117 is parasympathetic Original location: 116     Probes: 2
+ 118 is Chris           Original location: 32     Probes: 51
+ 119 is noggin          Original location: 32     Probes: 108
+ 120 is Vinnela         Original location: 32     Probes: 41
+ 121 is Red             Original location: 32     Probes: 10
+ 122 is Akhila          Original location: 32     Probes: 47
+ 123 is Joel            Original location: 32     Probes: 56
+ 124 is Fabricate       Original location: 32     Probes: 69
+ 125 is NULL
+ 126 is guard           Original location: 32     Probes: 107
+ 127 is Irreversible    Original location: 32     Probes: 68
+----------------
+Stats for 2 to 31
+Min: 1
+Max: 30
+Avg: 15.50
+----------------
+Stats for 82 to 111
+Min: 1
+Max: 109
+Avg: 88.80
+----------------
+Keys: 111
+Load level: 86.72%
+Expected average probes: 2.33
+
+Hash: YOURS
+Probe: RANDOM
+Location: QC_1
+ 1 is Kyle            Original location: 32     Probes: 34
+ 2 is NULL
+ 3 is Arauza          Original location: 32     Probes: 16
+ 4 is NULL
+ 5 is Acevedo         Original location: 32     Probes: 14
+ 6 is Scott           Original location: 32     Probes: 35
+ 7 is Kelly           Original location: 32     Probes: 28
+ 8 is Garza           Original location: 32     Probes: 25
+ 9 is NULL
+ 10 is Clayton         Original location: 32     Probes: 31
+ 11 is NULL
+ 12 is NULL
+ 13 is Derek           Original location: 32     Probes: 38
+ 14 is NULL
+ 15 is NULL
+ 16 is Buck            Original location: 32     Probes: 17
+ 17 is NULL
+ 18 is NULL
+ 19 is NULL
+ 20 is Matthew         Original location: 32     Probes: 45
+ 21 is NULL
+ 22 is Crouch          Original location: 32     Probes: 19
+ 23 is NULL
+ 24 is Paschal         Original location: 32     Probes: 9
+ 25 is NULL
+ 26 is Ajose           Original location: 32     Probes: 15
+ 27 is Farral          Original location: 32     Probes: 24
+ 28 is Judy            Original location: 32     Probes: 37
+ 29 is NULL
+ 30 is NULL
+ 31 is Octavio         Original location: 32     Probes: 36
+ 32 is Aguirrie        Original location: 32     Probes: 1
+ 33 is Alcantara       Original location: 32     Probes: 2
+ 34 is NULL
+ 35 is NULL
+ 36 is Corey           Original location: 32     Probes: 29
+ 37 is NULL
+ 38 is Bhandari        Original location: 32     Probes: 3
+ 39 is NULL
+ 40 is NULL
+ 41 is Gurung          Original location: 32     Probes: 26
+ 42 is NULL
+ 43 is NULL
+ 44 is Dugger          Original location: 32     Probes: 21
+ 45 is Cook            Original location: 32     Probes: 6
+ 46 is NULL
+ 47 is NULL
+ 48 is NULL
+ 49 is James           Original location: 32     Probes: 50
+ 50 is NULL
+ 51 is Dustin          Original location: 32     Probes: 32
+ 52 is Qamruddin       Original location: 32     Probes: 13
+ 53 is Adam            Original location: 32     Probes: 30
+ 54 is NULL
+ 55 is Veronica        Original location: 32     Probes: 44
+ 56 is NULL
+ 57 is NULL
+ 58 is NULL
+ 59 is NULL
+ 60 is Casper          Original location: 32     Probes: 5
+ 61 is NULL
+ 62 is Todd            Original location: 32     Probes: 43
+ 63 is Carmona         Original location: 32     Probes: 4
+ 64 is NULL
+ 65 is NULL
+ 66 is Jeffrey         Original location: 32     Probes: 39
+ 67 is NULL
+ 68 is NULL
+ 69 is NULL
+ 70 is NULL
+ 71 is NULL
+ 72 is NULL
+ 73 is NULL
+ 74 is NULL
+ 75 is Jordon          Original location: 32     Probes: 40
+ 76 is NULL
+ 77 is NULL
+ 78 is Joseph          Original location: 32     Probes: 27
+ 79 is NULL
+ 80 is NULL
+ 81 is Clark           Original location: 32     Probes: 18
+ 82 is Ellington       Original location: 32     Probes: 23
+ 83 is NULL
+ 84 is NULL
+ 85 is NULL
+ 86 is NULL
+ 87 is Zulfiqar        Original location: 32     Probes: 12
+ 88 is NULL
+ 89 is Lisa            Original location: 32     Probes: 42
+ 90 is NULL
+ 91 is NULL
+ 92 is NULL
+ 93 is Egbe            Original location: 32     Probes: 22
+ 94 is Salkowski       Original location: 32     Probes: 11
+ 95 is NULL
+ 96 is NULL
+ 97 is NULL
+ 98 is Daniels         Original location: 32     Probes: 7
+ 99 is John            Original location: 32     Probes: 48
+ 100 is NULL
+ 101 is Michael         Original location: 32     Probes: 46
+ 102 is NULL
+ 103 is NULL
+ 104 is NULL
+ 105 is NULL
+ 106 is NULL
+ 107 is Nienberg        Original location: 32     Probes: 8
+ 108 is NULL
+ 109 is NULL
+ 110 is NULL
+ 111 is Davies          Original location: 32     Probes: 20
+ 112 is Charles         Original location: 32     Probes: 49
+ 113 is NULL
+ 114 is NULL
+ 115 is NULL
+ 116 is NULL
+ 117 is NULL
+ 118 is Chris           Original location: 32     Probes: 51
+ 119 is NULL
+ 120 is Vinnela         Original location: 32     Probes: 41
+ 121 is Red             Original location: 32     Probes: 10
+ 122 is Akhila          Original location: 32     Probes: 47
+ 123 is NULL
+ 124 is NULL
+ 125 is NULL
+ 126 is NULL
+ 127 is NULL
+ 128 is Robert          Original location: 32     Probes: 33
+----------------
+Stats for 2 to 31
+Min: 1
+Max: 30
+Avg: 15.50
+----------------
+Stats for 22 to 51
+Min: 21
+Max: 50
+Avg: 35.50
+----------------
+Keys: 51
+Load level: 39.84%
+Expected average probes: 1.28
+
+Hash: YOURS
+Probe: RANDOM
+Location: QC_2
+ 1 is Kyle            Original location: 32     Probes: 34
+ 2 is forgetful       Original location: 32     Probes: 103
+ 3 is Arauza          Original location: 32     Probes: 16
+ 4 is Constriction    Original location: 32     Probes: 61
+ 5 is Acevedo         Original location: 32     Probes: 14
+ 6 is Scott           Original location: 32     Probes: 35
+ 7 is Kelly           Original location: 32     Probes: 28
+ 8 is Garza           Original location: 32     Probes: 25
+ 9 is Misogamist      Original location: 32     Probes: 58
+ 10 is Clayton         Original location: 32     Probes: 31
+ 11 is privilege       Original location: 32     Probes: 104
+ 12 is Christopher     Original location: 32     Probes: 53
+ 13 is Derek           Original location: 32     Probes: 38
+ 14 is constrain       Original location: 32     Probes: 91
+ 15 is NULL
+ 16 is Buck            Original location: 32     Probes: 17
+ 17 is brutalize       Original location: 32     Probes: 82
+ 18 is orthodontist    Original location: 32     Probes: 87
+ 19 is Yolk            Original location: 32     Probes: 64
+ 20 is Matthew         Original location: 32     Probes: 45
+ 21 is Necromancer     Original location: 32     Probes: 62
+ 22 is Crouch          Original location: 32     Probes: 19
+ 23 is Rush            Original location: 32     Probes: 76
+ 24 is Paschal         Original location: 32     Probes: 9
+ 25 is exhilarate      Original location: 32     Probes: 106
+ 26 is Ajose           Original location: 32     Probes: 15
+ 27 is Farral          Original location: 32     Probes: 24
+ 28 is Judy            Original location: 32     Probes: 37
+ 29 is wince           Original location: 32     Probes: 86
+ 30 is Cook            Original location: 32     Probes: 75
+ 31 is Octavio         Original location: 32     Probes: 36
+ 32 is Aguirrie        Original location: 32     Probes: 1
+ 33 is Alcantara       Original location: 32     Probes: 2
+ 34 is Staple          Original location: 32     Probes: 71
+ 35 is NULL
+ 36 is Corey           Original location: 32     Probes: 29
+ 37 is seal            Original location: 32     Probes: 110
+ 38 is Bhandari        Original location: 32     Probes: 3
+ 39 is NULL
+ 40 is NULL
+ 41 is Gurung          Original location: 32     Probes: 26
+ 42 is NULL
+ 43 is Under           Original location: 32     Probes: 72
+ 44 is Dugger          Original location: 32     Probes: 21
+ 45 is Cook            Original location: 32     Probes: 6
+ 46 is Maiden          Original location: 32     Probes: 59
+ 47 is cauldron        Original location: 32     Probes: 84
+ 48 is NULL
+ 49 is James           Original location: 32     Probes: 50
+ 50 is Batbold         Original location: 32     Probes: 55
+ 51 is Dustin          Original location: 32     Probes: 32
+ 52 is Qamruddin       Original location: 32     Probes: 13
+ 53 is Adam            Original location: 32     Probes: 30
+ 54 is NULL
+ 55 is Veronica        Original location: 32     Probes: 44
+ 56 is sponsor         Original location: 32     Probes: 105
+ 57 is Finagle         Original location: 32     Probes: 74
+ 58 is NULL
+ 59 is NULL
+ 60 is Casper          Original location: 32     Probes: 5
+ 61 is Fernando        Original location: 32     Probes: 54
+ 62 is Todd            Original location: 32     Probes: 43
+ 63 is Carmona         Original location: 32     Probes: 4
+ 64 is wet             Original location: 32     Probes: 97
+ 65 is sparse          Original location: 32     Probes: 98
+ 66 is Jeffrey         Original location: 32     Probes: 39
+ 67 is mole            Original location: 32     Probes: 80
+ 68 is NULL
+ 69 is Screen          Original location: 32     Probes: 78
+ 70 is quandary        Original location: 32     Probes: 99
+ 71 is marsupial       Original location: 32     Probes: 92
+ 72 is magnetic        Original location: 32     Probes: 89
+ 73 is NULL
+ 74 is scat            Original location: 32     Probes: 95
+ 75 is Jordon          Original location: 32     Probes: 40
+ 76 is NULL
+ 77 is option          Original location: 32     Probes: 102
+ 78 is Joseph          Original location: 32     Probes: 27
+ 79 is Wade            Original location: 32     Probes: 52
+ 80 is poison          Original location: 32     Probes: 81
+ 81 is Clark           Original location: 32     Probes: 18
+ 82 is Ellington       Original location: 32     Probes: 23
+ 83 is NULL
+ 84 is prologue        Original location: 32     Probes: 109
+ 85 is NULL
+ 86 is cap             Original location: 32     Probes: 83
+ 87 is Zulfiqar        Original location: 32     Probes: 12
+ 88 is Jutty           Original location: 32     Probes: 73
+ 89 is Lisa            Original location: 32     Probes: 42
+ 90 is Perfect         Original location: 32     Probes: 79
+ 91 is live            Original location: 32     Probes: 88
+ 92 is nosegay         Original location: 32     Probes: 101
+ 93 is Egbe            Original location: 32     Probes: 22
+ 94 is Salkowski       Original location: 32     Probes: 11
+ 95 is dactyl          Original location: 32     Probes: 100
+ 96 is Afterwards      Original location: 32     Probes: 65
+ 97 is Person          Original location: 32     Probes: 66
+ 98 is Daniels         Original location: 32     Probes: 7
+ 99 is John            Original location: 32     Probes: 48
+ 100 is rationalize     Original location: 32     Probes: 93
+ 101 is Michael         Original location: 32     Probes: 46
+ 102 is Northwest       Original location: 32     Probes: 67
+ 103 is Eye             Original location: 32     Probes: 60
+ 104 is Fabulous        Original location: 32     Probes: 57
+ 105 is inlet           Original location: 32     Probes: 90
+ 106 is Syncopate       Original location: 32     Probes: 63
+ 107 is Nienberg        Original location: 32     Probes: 8
+ 108 is prepossess      Original location: 32     Probes: 85
+ 109 is Honor           Original location: 32     Probes: 70
+ 110 is ratiocination   Original location: 110     Probes: 1
+ 111 is Davies          Original location: 32     Probes: 20
+ 112 is Charles         Original location: 32     Probes: 49
+ 113 is NULL
+ 114 is NULL
+ 115 is toluene         Original location: 32     Probes: 96
+ 116 is Wine            Original location: 32     Probes: 77
+ 117 is parasympathetic Original location: 116     Probes: 2
+ 118 is Chris           Original location: 32     Probes: 51
+ 119 is noggin          Original location: 32     Probes: 108
+ 120 is Vinnela         Original location: 32     Probes: 41
+ 121 is Red             Original location: 32     Probes: 10
+ 122 is Akhila          Original location: 32     Probes: 47
+ 123 is Joel            Original location: 32     Probes: 56
+ 124 is Fabricate       Original location: 32     Probes: 69
+ 125 is NULL
+ 126 is guard           Original location: 32     Probes: 107
+ 127 is Irreversible    Original location: 32     Probes: 68
+ 128 is Robert          Original location: 32     Probes: 33
+----------------
+Stats for 2 to 31
+Min: 1
+Max: 30
+Avg: 15.50
+----------------
+Stats for 82 to 111
+Min: 1
+Max: 109
+Avg: 88.80
+----------------
+Keys: 111
+Load level: 86.72%
+Expected average probes: 2.33
+
+Question E:
+Hash: MINE
+Probe: LINEAR
+Location: main memory
+ 0 is NULL
+ 1 is NULL
+ 2 is NULL
+ 3 is NULL
+ 4 is NULL
+ 5 is NULL
+ 6 is Aguirrie        Original location: 6     Probes: 1
+ 7 is Jeffrey         Original location: 6     Probes: 2
+ 8 is NULL
+ 9 is Adam            Original location: 9     Probes: 1
+ 10 is Salkowski       Original location: 10     Probes: 1
+ 11 is NULL
+ 12 is Todd            Original location: 12     Probes: 1
+ 13 is Lisa            Original location: 13     Probes: 1
+ 14 is NULL
+ 15 is NULL
+ 16 is James           Original location: 16     Probes: 1
+ 17 is NULL
+ 18 is NULL
+ 19 is Clayton         Original location: 19     Probes: 1
+ 20 is NULL
+ 21 is Matthew         Original location: 21     Probes: 1
+ 22 is NULL
+ 23 is Chris           Original location: 23     Probes: 1
+ 24 is Scott           Original location: 24     Probes: 1
+ 25 is Michael         Original location: 24     Probes: 2
+ 26 is NULL
+ 27 is Farral          Original location: 27     Probes: 1
+ 28 is Egbe            Original location: 28     Probes: 1
+ 29 is NULL
+ 30 is NULL
+ 31 is NULL
+ 32 is NULL
+ 33 is Clark           Original location: 33     Probes: 1
+ 34 is NULL
+ 35 is NULL
+ 36 is NULL
+ 37 is NULL
+ 38 is NULL
+ 39 is NULL
+ 40 is NULL
+ 41 is NULL
+ 42 is Acevedo         Original location: 42     Probes: 1
+ 43 is NULL
+ 44 is NULL
+ 45 is NULL
+ 46 is NULL
+ 47 is NULL
+ 48 is NULL
+ 49 is NULL
+ 50 is Qamruddin       Original location: 50     Probes: 1
+ 51 is NULL
+ 52 is NULL
+ 53 is NULL
+ 54 is Akhila          Original location: 54     Probes: 1
+ 55 is Cook            Original location: 55     Probes: 1
+ 56 is Dugger          Original location: 56     Probes: 1
+ 57 is Daniels         Original location: 57     Probes: 1
+ 58 is NULL
+ 59 is NULL
+ 60 is Red             Original location: 60     Probes: 1
+ 61 is Paschal         Original location: 61     Probes: 1
+ 62 is Veronica        Original location: 62     Probes: 1
+ 63 is Garza           Original location: 63     Probes: 1
+ 64 is NULL
+ 65 is NULL
+ 66 is NULL
+ 67 is NULL
+ 68 is NULL
+ 69 is NULL
+ 70 is NULL
+ 71 is Davies          Original location: 71     Probes: 1
+ 72 is Casper          Original location: 72     Probes: 1
+ 73 is NULL
+ 74 is Gurung          Original location: 74     Probes: 1
+ 75 is Crouch          Original location: 75     Probes: 1
+ 76 is Kelly           Original location: 74     Probes: 3
+ 77 is NULL
+ 78 is NULL
+ 79 is NULL
+ 80 is Carmona         Original location: 80     Probes: 1
+ 81 is NULL
+ 82 is NULL
+ 83 is NULL
+ 84 is NULL
+ 85 is Zulfiqar        Original location: 85     Probes: 1
+ 86 is Buck            Original location: 86     Probes: 1
+ 87 is NULL
+ 88 is Vinnela         Original location: 88     Probes: 1
+ 89 is Derek           Original location: 89     Probes: 1
+ 90 is John            Original location: 90     Probes: 1
+ 91 is NULL
+ 92 is NULL
+ 93 is NULL
+ 94 is NULL
+ 95 is NULL
+ 96 is Arauza          Original location: 96     Probes: 1
+ 97 is Ellington       Original location: 96     Probes: 2
+ 98 is Robert          Original location: 98     Probes: 1
+ 99 is NULL
+ 100 is Alcantara       Original location: 100     Probes: 1
+ 101 is NULL
+ 102 is NULL
+ 103 is NULL
+ 104 is Nienberg        Original location: 104     Probes: 1
+ 105 is NULL
+ 106 is Jordon          Original location: 106     Probes: 1
+ 107 is Charles         Original location: 107     Probes: 1
+ 108 is NULL
+ 109 is NULL
+ 110 is NULL
+ 111 is Dustin          Original location: 111     Probes: 1
+ 112 is Bhandari        Original location: 112     Probes: 1
+ 113 is NULL
+ 114 is NULL
+ 115 is Joseph          Original location: 115     Probes: 1
+ 116 is NULL
+ 117 is NULL
+ 118 is NULL
+ 119 is NULL
+ 120 is NULL
+ 121 is Octavio         Original location: 121     Probes: 1
+ 122 is NULL
+ 123 is Judy            Original location: 123     Probes: 1
+ 124 is Ajose           Original location: 124     Probes: 1
+ 125 is Corey           Original location: 124     Probes: 2
+ 126 is Kyle            Original location: 125     Probes: 2
+ 127 is NULL
+----------------
+Stats for 2 to 31
+Min: 1
+Max: 3
+Avg:  1.13
+----------------
+Stats for 22 to 51
+Min: 1
+Max: 3
+Avg:  1.23
+----------------
+Keys: 51
+Load level: 39.84%
+Expected average probes: 1.33
+
+Hash: MINE
+Probe: LINEAR
+Location: main memory
+ 0 is Staple          Original location: 0     Probes: 1
+ 1 is parasympathetic Original location: 127     Probes: 3
+ 2 is Joel            Original location: 2     Probes: 1
+ 3 is cauldron        Original location: 125     Probes: 7
+ 4 is poison          Original location: 4     Probes: 1
+ 5 is Afterwards      Original location: 5     Probes: 1
+ 6 is Aguirrie        Original location: 6     Probes: 1
+ 7 is Jeffrey         Original location: 6     Probes: 2
+ 8 is Constriction    Original location: 8     Probes: 1
+ 9 is Adam            Original location: 9     Probes: 1
+ 10 is Salkowski       Original location: 10     Probes: 1
+ 11 is Person          Original location: 9     Probes: 3
+ 12 is Todd            Original location: 12     Probes: 1
+ 13 is Lisa            Original location: 13     Probes: 1
+ 14 is Yolk            Original location: 13     Probes: 2
+ 15 is Northwest       Original location: 11     Probes: 5
+ 16 is James           Original location: 16     Probes: 1
+ 17 is Wine            Original location: 17     Probes: 1
+ 18 is constrain       Original location: 0     Probes: 19
+ 19 is Clayton         Original location: 19     Probes: 1
+ 20 is Honor           Original location: 20     Probes: 1
+ 21 is Matthew         Original location: 21     Probes: 1
+ 22 is orthodontist    Original location: 21     Probes: 2
+ 23 is Chris           Original location: 23     Probes: 1
+ 24 is Scott           Original location: 24     Probes: 1
+ 25 is Michael         Original location: 24     Probes: 2
+ 26 is Finagle         Original location: 26     Probes: 1
+ 27 is Farral          Original location: 27     Probes: 1
+ 28 is Egbe            Original location: 28     Probes: 1
+ 29 is Eye             Original location: 27     Probes: 3
+ 30 is mole            Original location: 28     Probes: 3
+ 31 is sparse          Original location: 21     Probes: 11
+ 32 is seal            Original location: 4     Probes: 29
+ 33 is Clark           Original location: 33     Probes: 1
+ 34 is prologue        Original location: 34     Probes: 1
+ 35 is NULL
+ 36 is rationalize     Original location: 36     Probes: 1
+ 37 is Fabricate       Original location: 37     Probes: 1
+ 38 is NULL
+ 39 is NULL
+ 40 is Syncopate       Original location: 40     Probes: 1
+ 41 is live            Original location: 41     Probes: 1
+ 42 is Acevedo         Original location: 42     Probes: 1
+ 43 is magnetic        Original location: 40     Probes: 4
+ 44 is option          Original location: 42     Probes: 3
+ 45 is NULL
+ 46 is NULL
+ 47 is wince           Original location: 47     Probes: 1
+ 48 is nosegay         Original location: 47     Probes: 2
+ 49 is privilege       Original location: 49     Probes: 1
+ 50 is Qamruddin       Original location: 50     Probes: 1
+ 51 is Perfect         Original location: 50     Probes: 2
+ 52 is NULL
+ 53 is NULL
+ 54 is Akhila          Original location: 54     Probes: 1
+ 55 is Cook            Original location: 55     Probes: 1
+ 56 is Dugger          Original location: 56     Probes: 1
+ 57 is Daniels         Original location: 57     Probes: 1
+ 58 is Jutty           Original location: 56     Probes: 3
+ 59 is Cook            Original location: 55     Probes: 5
+ 60 is Red             Original location: 60     Probes: 1
+ 61 is Paschal         Original location: 61     Probes: 1
+ 62 is Veronica        Original location: 62     Probes: 1
+ 63 is Garza           Original location: 63     Probes: 1
+ 64 is brutalize       Original location: 63     Probes: 2
+ 65 is inlet           Original location: 59     Probes: 7
+ 66 is toluene         Original location: 56     Probes: 11
+ 67 is Screen          Original location: 67     Probes: 1
+ 68 is prepossess      Original location: 67     Probes: 2
+ 69 is forgetful       Original location: 64     Probes: 6
+ 70 is cap             Original location: 70     Probes: 1
+ 71 is Davies          Original location: 71     Probes: 1
+ 72 is Casper          Original location: 72     Probes: 1
+ 73 is sponsor         Original location: 62     Probes: 12
+ 74 is Gurung          Original location: 74     Probes: 1
+ 75 is Crouch          Original location: 75     Probes: 1
+ 76 is Kelly           Original location: 74     Probes: 3
+ 77 is ratiocination   Original location: 77     Probes: 1
+ 78 is exhilarate      Original location: 61     Probes: 18
+ 79 is NULL
+ 80 is Carmona         Original location: 80     Probes: 1
+ 81 is NULL
+ 82 is NULL
+ 83 is NULL
+ 84 is NULL
+ 85 is Zulfiqar        Original location: 85     Probes: 1
+ 86 is Buck            Original location: 86     Probes: 1
+ 87 is marsupial       Original location: 87     Probes: 1
+ 88 is Vinnela         Original location: 88     Probes: 1
+ 89 is Derek           Original location: 89     Probes: 1
+ 90 is John            Original location: 90     Probes: 1
+ 91 is Batbold         Original location: 90     Probes: 2
+ 92 is guard           Original location: 88     Probes: 5
+ 93 is NULL
+ 94 is NULL
+ 95 is Rush            Original location: 95     Probes: 1
+ 96 is Arauza          Original location: 96     Probes: 1
+ 97 is Ellington       Original location: 96     Probes: 2
+ 98 is Robert          Original location: 98     Probes: 1
+ 99 is quandary        Original location: 99     Probes: 1
+ 100 is Alcantara       Original location: 100     Probes: 1
+ 101 is scat            Original location: 101     Probes: 1
+ 102 is NULL
+ 103 is NULL
+ 104 is Nienberg        Original location: 104     Probes: 1
+ 105 is Fernando        Original location: 105     Probes: 1
+ 106 is Jordon          Original location: 106     Probes: 1
+ 107 is Charles         Original location: 107     Probes: 1
+ 108 is Fabulous        Original location: 107     Probes: 2
+ 109 is Necromancer     Original location: 105     Probes: 5
+ 110 is wet             Original location: 108     Probes: 3
+ 111 is Dustin          Original location: 111     Probes: 1
+ 112 is Bhandari        Original location: 112     Probes: 1
+ 113 is Wade            Original location: 111     Probes: 3
+ 114 is dactyl          Original location: 111     Probes: 4
+ 115 is Joseph          Original location: 115     Probes: 1
+ 116 is Christopher     Original location: 116     Probes: 1
+ 117 is Maiden          Original location: 115     Probes: 3
+ 118 is Irreversible    Original location: 118     Probes: 1
+ 119 is Under           Original location: 118     Probes: 2
+ 120 is noggin          Original location: 106     Probes: 15
+ 121 is Octavio         Original location: 121     Probes: 1
+ 122 is NULL
+ 123 is Judy            Original location: 123     Probes: 1
+ 124 is Ajose           Original location: 124     Probes: 1
+ 125 is Corey           Original location: 124     Probes: 2
+ 126 is Kyle            Original location: 125     Probes: 2
+ 127 is Misogamist      Original location: 124     Probes: 4
+----------------
+Stats for 2 to 31
+Min: 1
+Max: 3
+Avg:  1.13
+----------------
+Stats for 82 to 111
+Min: 1
+Max: 19
+Avg:  4.90
+----------------
+Keys: 111
+Load level: 86.72%
+Expected average probes: 4.26
+
+Hash: MINE
+Probe: RANDOM
+Location: main memory
+ 0 is NULL
+ 1 is NULL
+ 2 is NULL
+ 3 is NULL
+ 4 is NULL
+ 5 is NULL
+ 6 is Aguirrie        Original location: 6     Probes: 1
+ 7 is Jeffrey         Original location: 6     Probes: 2
+ 8 is NULL
+ 9 is Adam            Original location: 9     Probes: 1
+ 10 is Salkowski       Original location: 10     Probes: 1
+ 11 is NULL
+ 12 is Todd            Original location: 12     Probes: 1
+ 13 is Lisa            Original location: 13     Probes: 1
+ 14 is NULL
+ 15 is NULL
+ 16 is James           Original location: 16     Probes: 1
+ 17 is NULL
+ 18 is NULL
+ 19 is Clayton         Original location: 19     Probes: 1
+ 20 is NULL
+ 21 is Matthew         Original location: 21     Probes: 1
+ 22 is NULL
+ 23 is Chris           Original location: 23     Probes: 1
+ 24 is Scott           Original location: 24     Probes: 1
+ 25 is Michael         Original location: 24     Probes: 2
+ 26 is NULL
+ 27 is Farral          Original location: 27     Probes: 1
+ 28 is Egbe            Original location: 28     Probes: 1
+ 29 is NULL
+ 30 is NULL
+ 31 is NULL
+ 32 is NULL
+ 33 is Clark           Original location: 33     Probes: 1
+ 34 is NULL
+ 35 is NULL
+ 36 is NULL
+ 37 is NULL
+ 38 is NULL
+ 39 is NULL
+ 40 is NULL
+ 41 is NULL
+ 42 is Acevedo         Original location: 42     Probes: 1
+ 43 is NULL
+ 44 is NULL
+ 45 is NULL
+ 46 is NULL
+ 47 is NULL
+ 48 is NULL
+ 49 is NULL
+ 50 is Qamruddin       Original location: 50     Probes: 1
+ 51 is NULL
+ 52 is NULL
+ 53 is NULL
+ 54 is Akhila          Original location: 54     Probes: 1
+ 55 is Cook            Original location: 55     Probes: 1
+ 56 is Dugger          Original location: 56     Probes: 1
+ 57 is Daniels         Original location: 57     Probes: 1
+ 58 is NULL
+ 59 is NULL
+ 60 is Red             Original location: 60     Probes: 1
+ 61 is Paschal         Original location: 61     Probes: 1
+ 62 is Veronica        Original location: 62     Probes: 1
+ 63 is Garza           Original location: 63     Probes: 1
+ 64 is NULL
+ 65 is NULL
+ 66 is NULL
+ 67 is NULL
+ 68 is NULL
+ 69 is NULL
+ 70 is NULL
+ 71 is Davies          Original location: 71     Probes: 1
+ 72 is Casper          Original location: 72     Probes: 1
+ 73 is NULL
+ 74 is Gurung          Original location: 74     Probes: 1
+ 75 is Crouch          Original location: 75     Probes: 1
+ 76 is NULL
+ 77 is NULL
+ 78 is NULL
+ 79 is NULL
+ 80 is Carmona         Original location: 80     Probes: 1
+ 81 is NULL
+ 82 is NULL
+ 83 is NULL
+ 84 is NULL
+ 85 is Zulfiqar        Original location: 85     Probes: 1
+ 86 is Buck            Original location: 86     Probes: 1
+ 87 is NULL
+ 88 is Vinnela         Original location: 88     Probes: 1
+ 89 is Derek           Original location: 89     Probes: 1
+ 90 is John            Original location: 90     Probes: 1
+ 91 is NULL
+ 92 is NULL
+ 93 is NULL
+ 94 is NULL
+ 95 is NULL
+ 96 is Arauza          Original location: 96     Probes: 1
+ 97 is Ellington       Original location: 96     Probes: 2
+ 98 is Robert          Original location: 98     Probes: 1
+ 99 is NULL
+ 100 is Alcantara       Original location: 100     Probes: 1
+ 101 is NULL
+ 102 is NULL
+ 103 is NULL
+ 104 is Nienberg        Original location: 104     Probes: 1
+ 105 is Kelly           Original location: 74     Probes: 4
+ 106 is Jordon          Original location: 106     Probes: 1
+ 107 is Charles         Original location: 107     Probes: 1
+ 108 is NULL
+ 109 is NULL
+ 110 is NULL
+ 111 is Dustin          Original location: 111     Probes: 1
+ 112 is Bhandari        Original location: 112     Probes: 1
+ 113 is NULL
+ 114 is NULL
+ 115 is Joseph          Original location: 115     Probes: 1
+ 116 is NULL
+ 117 is NULL
+ 118 is NULL
+ 119 is NULL
+ 120 is NULL
+ 121 is Octavio         Original location: 121     Probes: 1
+ 122 is NULL
+ 123 is Judy            Original location: 123     Probes: 1
+ 124 is Ajose           Original location: 124     Probes: 1
+ 125 is Corey           Original location: 124     Probes: 2
+ 126 is Kyle            Original location: 125     Probes: 2
+ 127 is NULL
+----------------
+Stats for 2 to 31
+Min: 1
+Max: 4
+Avg:  1.17
+----------------
+Stats for 22 to 51
+Min: 1
+Max: 4
+Avg:  1.27
+----------------
+Keys: 51
+Load level: 39.84%
+Expected average probes: 1.28
+
+Hash: MINE
+Probe: RANDOM
+Location: main memory
+ 0 is Staple          Original location: 0     Probes: 1
+ 1 is constrain       Original location: 0     Probes: 2
+ 2 is Joel            Original location: 2     Probes: 1
+ 3 is cauldron        Original location: 125     Probes: 3
+ 4 is poison          Original location: 4     Probes: 1
+ 5 is Necromancer     Original location: 105     Probes: 5
+ 6 is Aguirrie        Original location: 6     Probes: 1
+ 7 is Jeffrey         Original location: 6     Probes: 2
+ 8 is Fernando        Original location: 105     Probes: 4
+ 9 is Adam            Original location: 9     Probes: 1
+ 10 is Salkowski       Original location: 10     Probes: 1
+ 11 is Afterwards      Original location: 5     Probes: 3
+ 12 is Todd            Original location: 12     Probes: 1
+ 13 is Lisa            Original location: 13     Probes: 1
+ 14 is Constriction    Original location: 8     Probes: 3
+ 15 is Person          Original location: 9     Probes: 3
+ 16 is James           Original location: 16     Probes: 1
+ 17 is Northwest       Original location: 11     Probes: 3
+ 18 is Maiden          Original location: 115     Probes: 4
+ 19 is Clayton         Original location: 19     Probes: 1
+ 20 is Honor           Original location: 20     Probes: 1
+ 21 is Matthew         Original location: 21     Probes: 1
+ 22 is orthodontist    Original location: 21     Probes: 2
+ 23 is Chris           Original location: 23     Probes: 1
+ 24 is Scott           Original location: 24     Probes: 1
+ 25 is Michael         Original location: 24     Probes: 2
+ 26 is Finagle         Original location: 26     Probes: 1
+ 27 is Farral          Original location: 27     Probes: 1
+ 28 is Egbe            Original location: 28     Probes: 1
+ 29 is mole            Original location: 28     Probes: 2
+ 30 is NULL
+ 31 is NULL
+ 32 is NULL
+ 33 is Clark           Original location: 33     Probes: 1
+ 34 is prologue        Original location: 34     Probes: 1
+ 35 is seal            Original location: 4     Probes: 4
+ 36 is rationalize     Original location: 36     Probes: 1
+ 37 is Fabricate       Original location: 37     Probes: 1
+ 38 is NULL
+ 39 is privilege       Original location: 49     Probes: 19
+ 40 is Eye             Original location: 27     Probes: 6
+ 41 is Syncopate       Original location: 40     Probes: 2
+ 42 is Acevedo         Original location: 42     Probes: 1
+ 43 is option          Original location: 42     Probes: 2
+ 44 is Yolk            Original location: 13     Probes: 4
+ 45 is NULL
+ 46 is magnetic        Original location: 40     Probes: 3
+ 47 is wince           Original location: 47     Probes: 1
+ 48 is Wine            Original location: 17     Probes: 4
+ 49 is dactyl          Original location: 111     Probes: 7
+ 50 is Qamruddin       Original location: 50     Probes: 1
+ 51 is Perfect         Original location: 50     Probes: 2
+ 52 is sparse          Original location: 21     Probes: 4
+ 53 is nosegay         Original location: 47     Probes: 3
+ 54 is Akhila          Original location: 54     Probes: 1
+ 55 is Cook            Original location: 55     Probes: 1
+ 56 is Dugger          Original location: 56     Probes: 1
+ 57 is Daniels         Original location: 57     Probes: 1
+ 58 is Misogamist      Original location: 124     Probes: 11
+ 59 is inlet           Original location: 59     Probes: 1
+ 60 is Red             Original location: 60     Probes: 1
+ 61 is Paschal         Original location: 61     Probes: 1
+ 62 is Veronica        Original location: 62     Probes: 1
+ 63 is Garza           Original location: 63     Probes: 1
+ 64 is brutalize       Original location: 63     Probes: 2
+ 65 is forgetful       Original location: 64     Probes: 2
+ 66 is NULL
+ 67 is Screen          Original location: 67     Probes: 1
+ 68 is prepossess      Original location: 67     Probes: 2
+ 69 is live            Original location: 41     Probes: 5
+ 70 is cap             Original location: 70     Probes: 1
+ 71 is Davies          Original location: 71     Probes: 1
+ 72 is Casper          Original location: 72     Probes: 1
+ 73 is NULL
+ 74 is Gurung          Original location: 74     Probes: 1
+ 75 is Crouch          Original location: 75     Probes: 1
+ 76 is NULL
+ 77 is ratiocination   Original location: 77     Probes: 1
+ 78 is NULL
+ 79 is noggin          Original location: 106     Probes: 14
+ 80 is Carmona         Original location: 80     Probes: 1
+ 81 is NULL
+ 82 is sponsor         Original location: 62     Probes: 13
+ 83 is Cook            Original location: 55     Probes: 5
+ 84 is toluene         Original location: 56     Probes: 5
+ 85 is Zulfiqar        Original location: 85     Probes: 1
+ 86 is Buck            Original location: 86     Probes: 1
+ 87 is Jutty           Original location: 56     Probes: 4
+ 88 is Vinnela         Original location: 88     Probes: 1
+ 89 is Derek           Original location: 89     Probes: 1
+ 90 is John            Original location: 90     Probes: 1
+ 91 is Batbold         Original location: 90     Probes: 2
+ 92 is exhilarate      Original location: 61     Probes: 4
+ 93 is marsupial       Original location: 87     Probes: 3
+ 94 is guard           Original location: 88     Probes: 3
+ 95 is Rush            Original location: 95     Probes: 1
+ 96 is Arauza          Original location: 96     Probes: 1
+ 97 is Ellington       Original location: 96     Probes: 2
+ 98 is Robert          Original location: 98     Probes: 1
+ 99 is quandary        Original location: 99     Probes: 1
+ 100 is Alcantara       Original location: 100     Probes: 1
+ 101 is scat            Original location: 101     Probes: 1
+ 102 is NULL
+ 103 is NULL
+ 104 is Nienberg        Original location: 104     Probes: 1
+ 105 is Kelly           Original location: 74     Probes: 4
+ 106 is Jordon          Original location: 106     Probes: 1
+ 107 is Charles         Original location: 107     Probes: 1
+ 108 is Fabulous        Original location: 107     Probes: 2
+ 109 is wet             Original location: 108     Probes: 2
+ 110 is NULL
+ 111 is Dustin          Original location: 111     Probes: 1
+ 112 is Bhandari        Original location: 112     Probes: 1
+ 113 is NULL
+ 114 is NULL
+ 115 is Joseph          Original location: 115     Probes: 1
+ 116 is Christopher     Original location: 116     Probes: 1
+ 117 is Wade            Original location: 111     Probes: 3
+ 118 is Irreversible    Original location: 118     Probes: 1
+ 119 is Under           Original location: 118     Probes: 2
+ 120 is NULL
+ 121 is Octavio         Original location: 121     Probes: 1
+ 122 is NULL
+ 123 is Judy            Original location: 123     Probes: 1
+ 124 is Ajose           Original location: 124     Probes: 1
+ 125 is Corey           Original location: 124     Probes: 2
+ 126 is Kyle            Original location: 125     Probes: 2
+ 127 is parasympathetic Original location: 127     Probes: 1
+----------------
+Stats for 2 to 31
+Min: 1
+Max: 4
+Avg:  1.17
+----------------
+Stats for 82 to 111
+Min: 1
+Max: 19
+Avg:  3.67
+----------------
+Keys: 111
+Load level: 86.72%
+Expected average probes: 2.33
+
+Hash: MINE
+Probe: LINEAR
+Location: QE_1
+ 1 is NULL
+ 2 is NULL
+ 3 is NULL
+ 4 is NULL
+ 5 is NULL
+ 6 is Aguirrie        Original location: 6     Probes: 1
+ 7 is Jeffrey         Original location: 6     Probes: 2
+ 8 is NULL
+ 9 is Adam            Original location: 9     Probes: 1
+ 10 is Salkowski       Original location: 10     Probes: 1
+ 11 is NULL
+ 12 is Todd            Original location: 12     Probes: 1
+ 13 is Lisa            Original location: 13     Probes: 1
+ 14 is NULL
+ 15 is NULL
+ 16 is James           Original location: 16     Probes: 1
+ 17 is NULL
+ 18 is NULL
+ 19 is Clayton         Original location: 19     Probes: 1
+ 20 is NULL
+ 21 is Matthew         Original location: 21     Probes: 1
+ 22 is NULL
+ 23 is Chris           Original location: 23     Probes: 1
+ 24 is Scott           Original location: 24     Probes: 1
+ 25 is Michael         Original location: 24     Probes: 2
+ 26 is NULL
+ 27 is Farral          Original location: 27     Probes: 1
+ 28 is Egbe            Original location: 28     Probes: 1
+ 29 is NULL
+ 30 is NULL
+ 31 is NULL
+ 32 is NULL
+ 33 is Clark           Original location: 33     Probes: 1
+ 34 is NULL
+ 35 is NULL
+ 36 is NULL
+ 37 is NULL
+ 38 is NULL
+ 39 is NULL
+ 40 is NULL
+ 41 is NULL
+ 42 is Acevedo         Original location: 42     Probes: 1
+ 43 is NULL
+ 44 is NULL
+ 45 is NULL
+ 46 is NULL
+ 47 is NULL
+ 48 is NULL
+ 49 is NULL
+ 50 is Qamruddin       Original location: 50     Probes: 1
+ 51 is NULL
+ 52 is NULL
+ 53 is NULL
+ 54 is Akhila          Original location: 54     Probes: 1
+ 55 is Cook            Original location: 55     Probes: 1
+ 56 is Dugger          Original location: 56     Probes: 1
+ 57 is Daniels         Original location: 57     Probes: 1
+ 58 is NULL
+ 59 is NULL
+ 60 is Red             Original location: 60     Probes: 1
+ 61 is Paschal         Original location: 61     Probes: 1
+ 62 is Veronica        Original location: 62     Probes: 1
+ 63 is Garza           Original location: 63     Probes: 1
+ 64 is NULL
+ 65 is NULL
+ 66 is NULL
+ 67 is NULL
+ 68 is NULL
+ 69 is NULL
+ 70 is NULL
+ 71 is Davies          Original location: 71     Probes: 1
+ 72 is Casper          Original location: 72     Probes: 1
+ 73 is NULL
+ 74 is Gurung          Original location: 74     Probes: 1
+ 75 is Crouch          Original location: 75     Probes: 1
+ 76 is Kelly           Original location: 74     Probes: 3
+ 77 is NULL
+ 78 is NULL
+ 79 is NULL
+ 80 is Carmona         Original location: 80     Probes: 1
+ 81 is NULL
+ 82 is NULL
+ 83 is NULL
+ 84 is NULL
+ 85 is Zulfiqar        Original location: 85     Probes: 1
+ 86 is Buck            Original location: 86     Probes: 1
+ 87 is NULL
+ 88 is Vinnela         Original location: 88     Probes: 1
+ 89 is Derek           Original location: 89     Probes: 1
+ 90 is John            Original location: 90     Probes: 1
+ 91 is NULL
+ 92 is NULL
+ 93 is NULL
+ 94 is NULL
+ 95 is NULL
+ 96 is Arauza          Original location: 96     Probes: 1
+ 97 is Ellington       Original location: 96     Probes: 2
+ 98 is Robert          Original location: 98     Probes: 1
+ 99 is NULL
+ 100 is Alcantara       Original location: 100     Probes: 1
+ 101 is NULL
+ 102 is NULL
+ 103 is NULL
+ 104 is Nienberg        Original location: 104     Probes: 1
+ 105 is NULL
+ 106 is Jordon          Original location: 106     Probes: 1
+ 107 is Charles         Original location: 107     Probes: 1
+ 108 is NULL
+ 109 is NULL
+ 110 is NULL
+ 111 is Dustin          Original location: 111     Probes: 1
+ 112 is Bhandari        Original location: 112     Probes: 1
+ 113 is NULL
+ 114 is NULL
+ 115 is Joseph          Original location: 115     Probes: 1
+ 116 is NULL
+ 117 is NULL
+ 118 is NULL
+ 119 is NULL
+ 120 is NULL
+ 121 is Octavio         Original location: 121     Probes: 1
+ 122 is NULL
+ 123 is Judy            Original location: 123     Probes: 1
+ 124 is Ajose           Original location: 124     Probes: 1
+ 125 is Corey           Original location: 124     Probes: 2
+ 126 is Kyle            Original location: 125     Probes: 2
+ 127 is NULL
+ 128 is NULL
+----------------
+Stats for 2 to 31
+Min: 1
+Max: 3
+Avg:  1.13
+----------------
+Stats for 22 to 51
+Min: 1
+Max: 3
+Avg:  1.23
+----------------
+Keys: 51
+Load level: 39.84%
+Expected average probes: 1.33
+
+Hash: MINE
+Probe: LINEAR
+Location: QE_2
+ 1 is parasympathetic Original location: 127     Probes: 3
+ 2 is Joel            Original location: 2     Probes: 1
+ 3 is cauldron        Original location: 125     Probes: 7
+ 4 is poison          Original location: 4     Probes: 1
+ 5 is Afterwards      Original location: 5     Probes: 1
+ 6 is Aguirrie        Original location: 6     Probes: 1
+ 7 is Jeffrey         Original location: 6     Probes: 2
+ 8 is Constriction    Original location: 8     Probes: 1
+ 9 is Adam            Original location: 9     Probes: 1
+ 10 is Salkowski       Original location: 10     Probes: 1
+ 11 is Person          Original location: 9     Probes: 3
+ 12 is Todd            Original location: 12     Probes: 1
+ 13 is Lisa            Original location: 13     Probes: 1
+ 14 is Yolk            Original location: 13     Probes: 2
+ 15 is Northwest       Original location: 11     Probes: 5
+ 16 is James           Original location: 16     Probes: 1
+ 17 is Wine            Original location: 17     Probes: 1
+ 18 is constrain       Original location: 0     Probes: 19
+ 19 is Clayton         Original location: 19     Probes: 1
+ 20 is Honor           Original location: 20     Probes: 1
+ 21 is Matthew         Original location: 21     Probes: 1
+ 22 is orthodontist    Original location: 21     Probes: 2
+ 23 is Chris           Original location: 23     Probes: 1
+ 24 is Scott           Original location: 24     Probes: 1
+ 25 is Michael         Original location: 24     Probes: 2
+ 26 is Finagle         Original location: 26     Probes: 1
+ 27 is Farral          Original location: 27     Probes: 1
+ 28 is Egbe            Original location: 28     Probes: 1
+ 29 is Eye             Original location: 27     Probes: 3
+ 30 is mole            Original location: 28     Probes: 3
+ 31 is sparse          Original location: 21     Probes: 11
+ 32 is seal            Original location: 4     Probes: 29
+ 33 is Clark           Original location: 33     Probes: 1
+ 34 is prologue        Original location: 34     Probes: 1
+ 35 is NULL
+ 36 is rationalize     Original location: 36     Probes: 1
+ 37 is Fabricate       Original location: 37     Probes: 1
+ 38 is NULL
+ 39 is NULL
+ 40 is Syncopate       Original location: 40     Probes: 1
+ 41 is live            Original location: 41     Probes: 1
+ 42 is Acevedo         Original location: 42     Probes: 1
+ 43 is magnetic        Original location: 40     Probes: 4
+ 44 is option          Original location: 42     Probes: 3
+ 45 is NULL
+ 46 is NULL
+ 47 is wince           Original location: 47     Probes: 1
+ 48 is nosegay         Original location: 47     Probes: 2
+ 49 is privilege       Original location: 49     Probes: 1
+ 50 is Qamruddin       Original location: 50     Probes: 1
+ 51 is Perfect         Original location: 50     Probes: 2
+ 52 is NULL
+ 53 is NULL
+ 54 is Akhila          Original location: 54     Probes: 1
+ 55 is Cook            Original location: 55     Probes: 1
+ 56 is Dugger          Original location: 56     Probes: 1
+ 57 is Daniels         Original location: 57     Probes: 1
+ 58 is Jutty           Original location: 56     Probes: 3
+ 59 is Cook            Original location: 55     Probes: 5
+ 60 is Red             Original location: 60     Probes: 1
+ 61 is Paschal         Original location: 61     Probes: 1
+ 62 is Veronica        Original location: 62     Probes: 1
+ 63 is Garza           Original location: 63     Probes: 1
+ 64 is brutalize       Original location: 63     Probes: 2
+ 65 is inlet           Original location: 59     Probes: 7
+ 66 is toluene         Original location: 56     Probes: 11
+ 67 is Screen          Original location: 67     Probes: 1
+ 68 is prepossess      Original location: 67     Probes: 2
+ 69 is forgetful       Original location: 64     Probes: 6
+ 70 is cap             Original location: 70     Probes: 1
+ 71 is Davies          Original location: 71     Probes: 1
+ 72 is Casper          Original location: 72     Probes: 1
+ 73 is sponsor         Original location: 62     Probes: 12
+ 74 is Gurung          Original location: 74     Probes: 1
+ 75 is Crouch          Original location: 75     Probes: 1
+ 76 is Kelly           Original location: 74     Probes: 3
+ 77 is ratiocination   Original location: 77     Probes: 1
+ 78 is exhilarate      Original location: 61     Probes: 18
+ 79 is NULL
+ 80 is Carmona         Original location: 80     Probes: 1
+ 81 is NULL
+ 82 is NULL
+ 83 is NULL
+ 84 is NULL
+ 85 is Zulfiqar        Original location: 85     Probes: 1
+ 86 is Buck            Original location: 86     Probes: 1
+ 87 is marsupial       Original location: 87     Probes: 1
+ 88 is Vinnela         Original location: 88     Probes: 1
+ 89 is Derek           Original location: 89     Probes: 1
+ 90 is John            Original location: 90     Probes: 1
+ 91 is Batbold         Original location: 90     Probes: 2
+ 92 is guard           Original location: 88     Probes: 5
+ 93 is NULL
+ 94 is NULL
+ 95 is Rush            Original location: 95     Probes: 1
+ 96 is Arauza          Original location: 96     Probes: 1
+ 97 is Ellington       Original location: 96     Probes: 2
+ 98 is Robert          Original location: 98     Probes: 1
+ 99 is quandary        Original location: 99     Probes: 1
+ 100 is Alcantara       Original location: 100     Probes: 1
+ 101 is scat            Original location: 101     Probes: 1
+ 102 is NULL
+ 103 is NULL
+ 104 is Nienberg        Original location: 104     Probes: 1
+ 105 is Fernando        Original location: 105     Probes: 1
+ 106 is Jordon          Original location: 106     Probes: 1
+ 107 is Charles         Original location: 107     Probes: 1
+ 108 is Fabulous        Original location: 107     Probes: 2
+ 109 is Necromancer     Original location: 105     Probes: 5
+ 110 is wet             Original location: 108     Probes: 3
+ 111 is Dustin          Original location: 111     Probes: 1
+ 112 is Bhandari        Original location: 112     Probes: 1
+ 113 is Wade            Original location: 111     Probes: 3
+ 114 is dactyl          Original location: 111     Probes: 4
+ 115 is Joseph          Original location: 115     Probes: 1
+ 116 is Christopher     Original location: 116     Probes: 1
+ 117 is Maiden          Original location: 115     Probes: 3
+ 118 is Irreversible    Original location: 118     Probes: 1
+ 119 is Under           Original location: 118     Probes: 2
+ 120 is noggin          Original location: 106     Probes: 15
+ 121 is Octavio         Original location: 121     Probes: 1
+ 122 is NULL
+ 123 is Judy            Original location: 123     Probes: 1
+ 124 is Ajose           Original location: 124     Probes: 1
+ 125 is Corey           Original location: 124     Probes: 2
+ 126 is Kyle            Original location: 125     Probes: 2
+ 127 is Misogamist      Original location: 124     Probes: 4
+ 128 is Staple          Original location: 0     Probes: 1
+----------------
+Stats for 2 to 31
+Min: 1
+Max: 3
+Avg:  1.13
+----------------
+Stats for 82 to 111
+Min: 1
+Max: 19
+Avg:  4.90
+----------------
+Keys: 111
+Load level: 86.72%
+Expected average probes: 4.26
+
+Hash: MINE
+Probe: RANDOM
+Location: QE_3
+ 1 is NULL
+ 2 is NULL
+ 3 is NULL
+ 4 is NULL
+ 5 is NULL
+ 6 is Aguirrie        Original location: 6     Probes: 1
+ 7 is Jeffrey         Original location: 6     Probes: 2
+ 8 is NULL
+ 9 is Adam            Original location: 9     Probes: 1
+ 10 is Salkowski       Original location: 10     Probes: 1
+ 11 is NULL
+ 12 is Todd            Original location: 12     Probes: 1
+ 13 is Lisa            Original location: 13     Probes: 1
+ 14 is NULL
+ 15 is NULL
+ 16 is James           Original location: 16     Probes: 1
+ 17 is NULL
+ 18 is NULL
+ 19 is Clayton         Original location: 19     Probes: 1
+ 20 is NULL
+ 21 is Matthew         Original location: 21     Probes: 1
+ 22 is NULL
+ 23 is Chris           Original location: 23     Probes: 1
+ 24 is Scott           Original location: 24     Probes: 1
+ 25 is Michael         Original location: 24     Probes: 2
+ 26 is NULL
+ 27 is Farral          Original location: 27     Probes: 1
+ 28 is Egbe            Original location: 28     Probes: 1
+ 29 is NULL
+ 30 is NULL
+ 31 is NULL
+ 32 is NULL
+ 33 is Clark           Original location: 33     Probes: 1
+ 34 is NULL
+ 35 is NULL
+ 36 is NULL
+ 37 is NULL
+ 38 is NULL
+ 39 is NULL
+ 40 is NULL
+ 41 is NULL
+ 42 is Acevedo         Original location: 42     Probes: 1
+ 43 is NULL
+ 44 is NULL
+ 45 is NULL
+ 46 is NULL
+ 47 is NULL
+ 48 is NULL
+ 49 is NULL
+ 50 is Qamruddin       Original location: 50     Probes: 1
+ 51 is NULL
+ 52 is NULL
+ 53 is NULL
+ 54 is Akhila          Original location: 54     Probes: 1
+ 55 is Cook            Original location: 55     Probes: 1
+ 56 is Dugger          Original location: 56     Probes: 1
+ 57 is Daniels         Original location: 57     Probes: 1
+ 58 is NULL
+ 59 is NULL
+ 60 is Red             Original location: 60     Probes: 1
+ 61 is Paschal         Original location: 61     Probes: 1
+ 62 is Veronica        Original location: 62     Probes: 1
+ 63 is Garza           Original location: 63     Probes: 1
+ 64 is NULL
+ 65 is NULL
+ 66 is NULL
+ 67 is NULL
+ 68 is NULL
+ 69 is NULL
+ 70 is NULL
+ 71 is Davies          Original location: 71     Probes: 1
+ 72 is Casper          Original location: 72     Probes: 1
+ 73 is NULL
+ 74 is Gurung          Original location: 74     Probes: 1
+ 75 is Crouch          Original location: 75     Probes: 1
+ 76 is NULL
+ 77 is NULL
+ 78 is NULL
+ 79 is NULL
+ 80 is Carmona         Original location: 80     Probes: 1
+ 81 is NULL
+ 82 is NULL
+ 83 is NULL
+ 84 is NULL
+ 85 is Zulfiqar        Original location: 85     Probes: 1
+ 86 is Buck            Original location: 86     Probes: 1
+ 87 is NULL
+ 88 is Vinnela         Original location: 88     Probes: 1
+ 89 is Derek           Original location: 89     Probes: 1
+ 90 is John            Original location: 90     Probes: 1
+ 91 is NULL
+ 92 is NULL
+ 93 is NULL
+ 94 is NULL
+ 95 is NULL
+ 96 is Arauza          Original location: 96     Probes: 1
+ 97 is Ellington       Original location: 96     Probes: 2
+ 98 is Robert          Original location: 98     Probes: 1
+ 99 is NULL
+ 100 is Alcantara       Original location: 100     Probes: 1
+ 101 is NULL
+ 102 is NULL
+ 103 is NULL
+ 104 is Nienberg        Original location: 104     Probes: 1
+ 105 is Kelly           Original location: 74     Probes: 4
+ 106 is Jordon          Original location: 106     Probes: 1
+ 107 is Charles         Original location: 107     Probes: 1
+ 108 is NULL
+ 109 is NULL
+ 110 is NULL
+ 111 is Dustin          Original location: 111     Probes: 1
+ 112 is Bhandari        Original location: 112     Probes: 1
+ 113 is NULL
+ 114 is NULL
+ 115 is Joseph          Original location: 115     Probes: 1
+ 116 is NULL
+ 117 is NULL
+ 118 is NULL
+ 119 is NULL
+ 120 is NULL
+ 121 is Octavio         Original location: 121     Probes: 1
+ 122 is NULL
+ 123 is Judy            Original location: 123     Probes: 1
+ 124 is Ajose           Original location: 124     Probes: 1
+ 125 is Corey           Original location: 124     Probes: 2
+ 126 is Kyle            Original location: 125     Probes: 2
+ 127 is NULL
+ 128 is NULL
+----------------
+Stats for 2 to 31
+Min: 1
+Max: 4
+Avg:  1.17
+----------------
+Stats for 22 to 51
+Min: 1
+Max: 4
+Avg:  1.27
+----------------
+Keys: 51
+Load level: 39.84%
+Expected average probes: 1.28
+
+Hash: MINE
+Probe: RANDOM
+Location: QE_4
+ 1 is constrain       Original location: 0     Probes: 2
+ 2 is Joel            Original location: 2     Probes: 1
+ 3 is cauldron        Original location: 125     Probes: 3
+ 4 is poison          Original location: 4     Probes: 1
+ 5 is Necromancer     Original location: 105     Probes: 5
+ 6 is Aguirrie        Original location: 6     Probes: 1
+ 7 is Jeffrey         Original location: 6     Probes: 2
+ 8 is Fernando        Original location: 105     Probes: 4
+ 9 is Adam            Original location: 9     Probes: 1
+ 10 is Salkowski       Original location: 10     Probes: 1
+ 11 is Afterwards      Original location: 5     Probes: 3
+ 12 is Todd            Original location: 12     Probes: 1
+ 13 is Lisa            Original location: 13     Probes: 1
+ 14 is Constriction    Original location: 8     Probes: 3
+ 15 is Person          Original location: 9     Probes: 3
+ 16 is James           Original location: 16     Probes: 1
+ 17 is Northwest       Original location: 11     Probes: 3
+ 18 is Maiden          Original location: 115     Probes: 4
+ 19 is Clayton         Original location: 19     Probes: 1
+ 20 is Honor           Original location: 20     Probes: 1
+ 21 is Matthew         Original location: 21     Probes: 1
+ 22 is orthodontist    Original location: 21     Probes: 2
+ 23 is Chris           Original location: 23     Probes: 1
+ 24 is Scott           Original location: 24     Probes: 1
+ 25 is Michael         Original location: 24     Probes: 2
+ 26 is Finagle         Original location: 26     Probes: 1
+ 27 is Farral          Original location: 27     Probes: 1
+ 28 is Egbe            Original location: 28     Probes: 1
+ 29 is mole            Original location: 28     Probes: 2
+ 30 is NULL
+ 31 is NULL
+ 32 is NULL
+ 33 is Clark           Original location: 33     Probes: 1
+ 34 is prologue        Original location: 34     Probes: 1
+ 35 is seal            Original location: 4     Probes: 4
+ 36 is rationalize     Original location: 36     Probes: 1
+ 37 is Fabricate       Original location: 37     Probes: 1
+ 38 is NULL
+ 39 is privilege       Original location: 49     Probes: 19
+ 40 is Eye             Original location: 27     Probes: 6
+ 41 is Syncopate       Original location: 40     Probes: 2
+ 42 is Acevedo         Original location: 42     Probes: 1
+ 43 is option          Original location: 42     Probes: 2
+ 44 is Yolk            Original location: 13     Probes: 4
+ 45 is NULL
+ 46 is magnetic        Original location: 40     Probes: 3
+ 47 is wince           Original location: 47     Probes: 1
+ 48 is Wine            Original location: 17     Probes: 4
+ 49 is dactyl          Original location: 111     Probes: 7
+ 50 is Qamruddin       Original location: 50     Probes: 1
+ 51 is Perfect         Original location: 50     Probes: 2
+ 52 is sparse          Original location: 21     Probes: 4
+ 53 is nosegay         Original location: 47     Probes: 3
+ 54 is Akhila          Original location: 54     Probes: 1
+ 55 is Cook            Original location: 55     Probes: 1
+ 56 is Dugger          Original location: 56     Probes: 1
+ 57 is Daniels         Original location: 57     Probes: 1
+ 58 is Misogamist      Original location: 124     Probes: 11
+ 59 is inlet           Original location: 59     Probes: 1
+ 60 is Red             Original location: 60     Probes: 1
+ 61 is Paschal         Original location: 61     Probes: 1
+ 62 is Veronica        Original location: 62     Probes: 1
+ 63 is Garza           Original location: 63     Probes: 1
+ 64 is brutalize       Original location: 63     Probes: 2
+ 65 is forgetful       Original location: 64     Probes: 2
+ 66 is NULL
+ 67 is Screen          Original location: 67     Probes: 1
+ 68 is prepossess      Original location: 67     Probes: 2
+ 69 is live            Original location: 41     Probes: 5
+ 70 is cap             Original location: 70     Probes: 1
+ 71 is Davies          Original location: 71     Probes: 1
+ 72 is Casper          Original location: 72     Probes: 1
+ 73 is NULL
+ 74 is Gurung          Original location: 74     Probes: 1
+ 75 is Crouch          Original location: 75     Probes: 1
+ 76 is NULL
+ 77 is ratiocination   Original location: 77     Probes: 1
+ 78 is NULL
+ 79 is noggin          Original location: 106     Probes: 14
+ 80 is Carmona         Original location: 80     Probes: 1
+ 81 is NULL
+ 82 is sponsor         Original location: 62     Probes: 13
+ 83 is Cook            Original location: 55     Probes: 5
+ 84 is toluene         Original location: 56     Probes: 5
+ 85 is Zulfiqar        Original location: 85     Probes: 1
+ 86 is Buck            Original location: 86     Probes: 1
+ 87 is Jutty           Original location: 56     Probes: 4
+ 88 is Vinnela         Original location: 88     Probes: 1
+ 89 is Derek           Original location: 89     Probes: 1
+ 90 is John            Original location: 90     Probes: 1
+ 91 is Batbold         Original location: 90     Probes: 2
+ 92 is exhilarate      Original location: 61     Probes: 4
+ 93 is marsupial       Original location: 87     Probes: 3
+ 94 is guard           Original location: 88     Probes: 3
+ 95 is Rush            Original location: 95     Probes: 1
+ 96 is Arauza          Original location: 96     Probes: 1
+ 97 is Ellington       Original location: 96     Probes: 2
+ 98 is Robert          Original location: 98     Probes: 1
+ 99 is quandary        Original location: 99     Probes: 1
+ 100 is Alcantara       Original location: 100     Probes: 1
+ 101 is scat            Original location: 101     Probes: 1
+ 102 is NULL
+ 103 is NULL
+ 104 is Nienberg        Original location: 104     Probes: 1
+ 105 is Kelly           Original location: 74     Probes: 4
+ 106 is Jordon          Original location: 106     Probes: 1
+ 107 is Charles         Original location: 107     Probes: 1
+ 108 is Fabulous        Original location: 107     Probes: 2
+ 109 is wet             Original location: 108     Probes: 2
+ 110 is NULL
+ 111 is Dustin          Original location: 111     Probes: 1
+ 112 is Bhandari        Original location: 112     Probes: 1
+ 113 is NULL
+ 114 is NULL
+ 115 is Joseph          Original location: 115     Probes: 1
+ 116 is Christopher     Original location: 116     Probes: 1
+ 117 is Wade            Original location: 111     Probes: 3
+ 118 is Irreversible    Original location: 118     Probes: 1
+ 119 is Under           Original location: 118     Probes: 2
+ 120 is NULL
+ 121 is Octavio         Original location: 121     Probes: 1
+ 122 is NULL
+ 123 is Judy            Original location: 123     Probes: 1
+ 124 is Ajose           Original location: 124     Probes: 1
+ 125 is Corey           Original location: 124     Probes: 2
+ 126 is Kyle            Original location: 125     Probes: 2
+ 127 is parasympathetic Original location: 127     Probes: 1
+ 128 is Staple          Original location: 0     Probes: 1
+----------------
+Stats for 2 to 31
+Min: 1
+Max: 4
+Avg:  1.17
+----------------
+Stats for 82 to 111
+Min: 1
+Max: 19
+Avg:  3.67
+----------------
+Keys: 111
+Load level: 86.72%
+Expected average probes: 2.33
+
